@@ -122,7 +122,6 @@ The following screenshots demonstrate both the Azure Custom Vision training resu
 - Add more diverse images.
 - Improve Precision and Recall.
 - Compare the ONNX model with TensorFlow deployment.
-- Deploy the model as a cloud service or web API.
 
 ---
 
