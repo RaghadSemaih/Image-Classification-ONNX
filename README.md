@@ -40,10 +40,13 @@ This limited dataset was intentionally created as a learning project to understa
 
 # Technologies Used
 
-- Microsoft Azure Custom Vision
 - Python
+- Microsoft Azure
+- Microsoft Azure Custom Vision
+- ONNX
 - ONNX Runtime
-- ONNX Model Format
+- OpenCV
+- NumPy
 
 ---
 
