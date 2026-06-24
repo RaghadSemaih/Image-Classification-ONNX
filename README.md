@@ -52,7 +52,7 @@ This limited dataset was intentionally created as a learning project to understa
 
 # Project Workflow
 
-1. Created an Azure Custom Vision resource.
+1. Created an Azure Custom Vision resource in Microsoft Azure.
 2. Created a new Image Classification project.
 3. Collected and labeled the dataset manually.
 4. Trained the model using Azure Custom Vision.
