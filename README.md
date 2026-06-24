@@ -31,8 +31,8 @@ A public dataset was not used.
 
 Instead, a small custom dataset was manually collected containing:
 
-- 15 images of cars
-- 15 images of non-car objects
+- 15 images contains cars
+- 15 images does not contain cars 
 
 This limited dataset was intentionally created as a learning project to understand the complete machine learning workflow from start to finish.
 
