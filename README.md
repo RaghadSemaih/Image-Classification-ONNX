@@ -6,7 +6,7 @@ Car Image Classification using Microsoft Azure Custom Vision and ONNX Runtime.
 
 # Overview
 
-This project demonstrates a simple image classification model built using **Microsoft Azure Custom Vision**. The objective is to classify whether an image contains a **car** or **not a car**.
+This project demonstrates a simple image classification model built using **Microsoft Azure Custom Vision**. The objective is to classify whether an image contains a **car** or **does not contain a car**.
 
 After training, the model was exported in **ONNX** format, allowing it to run locally on different operating systems using Python.
 
